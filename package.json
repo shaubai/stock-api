@@ -1,0 +1,20 @@
+{
+  "name": "stock-api",
+  "version": "1.0.0",
+  "description": "TWSE Stock API Proxy for Flutter Web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": [
+    "stock",
+    "twse",
+    "api",
+    "proxy"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
