@@ -13,5 +13,8 @@ yarn.lock
 .env.local
 .env.*.local
 
+# Firebase service account credentials
+*firebase-adminsdk*.json
+
 # OS
 .DS_Store
